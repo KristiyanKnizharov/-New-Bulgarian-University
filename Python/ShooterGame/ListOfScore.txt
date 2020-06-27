@@ -1,0 +1,22 @@
+Player scored: 11
+Player scored: 14
+Player scored: 60
+Player scored: 32
+Player scored: 19
+Player scored: 115
+Player scored: 23
+Player scored: 65
+Player scored: 9
+Player scored: 20
+Player scored: 22
+Player scored: 6
+Player scored: 148
+Player scored: 25 (2020-06-03 23:32:01)
+Player scored: 22 (2020-06-03 00:11:31)
+Player scored: 20 (2020-06-03 01:42:43)
+Player scored: 14 (2020-06-04 10:50:03)
+Player scored: 19 (2020-06-04 14:59:52)
+Player scored: 14 (2020-06-04 17:47:23)
+Player scored: 9 (2020-06-04 18:07:21)
+Player scored: 19 (2020-06-04 19:35:00)
+Player scored: 20 (2020-06-04 21:41:32)
